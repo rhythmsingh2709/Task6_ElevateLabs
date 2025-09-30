@@ -11,12 +11,23 @@ To understand the characteristics that make a password strong and evaluate its s
 ### **Tools Used:**
 
 - [Password Meter](https://www.passwordmeter.com/)
-- NordPass Password Strength Checker
-- Kaspersky Password Checker
 
 ### **Password Samples Tested:**
 
+### a) Very Weak
+![Very Weak](images/VeryWeak.png)
 
+### b) Weak
+![Weak](images/Weak.png)
+
+### c) Good
+![Good](images/Good.png)
+
+### d) Strong
+![Strong](images/Strong.png)
+
+### b) Very Strong
+![Very Strong](images/VeryStrong.png)
 
 
 ## 🧠 Analysis
@@ -41,7 +52,7 @@ A strong password typically has:
 
 ## ✅ Recommendations
 
-- Use passphrases (e.g., `B1gC@tJumps0ver2Moon!`) — easy to remember but hard to crack
+- Use passphrases (e.g., `Elevatelabs@1029`) — easy to remember but hard to crack
 - Consider password managers for generating and storing complex passwords
 - Avoid reusing passwords across services
 - Enable two-factor authentication (2FA) wherever possible
